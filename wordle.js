@@ -5,6 +5,10 @@
   * not present in the word.
   *
   * NOTE: Paste this code in an online compiler or your browser's console and test it, as prompts doesn't work in local node environment.
+  * 
+  * IF COLOR EMOJIS ARE NOT APPEARING IN THIS FILE, OR IF IT'S BROKEN, I HAVE PUSHED THE CODE INTO GITHUB REPOSITORY. PLEASE ACCESS IT IN THIS URL:
+  * https://github.com/Amaru333/wordlejs
+  * 
 */
 
 /**
